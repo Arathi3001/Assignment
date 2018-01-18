@@ -1,2 +1,3 @@
-# Assignment
-SPM Assignment
+#!/user/bin/perl
+$str = "Welcome to Perl Tutorial!";
+print "$str\n";
